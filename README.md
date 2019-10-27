@@ -5,7 +5,7 @@ The high fidelity prototype was implemented by using Android Studio (Java), it c
 
 git clone https://github.com/deco3500-2019/Blueberry.git
 
-The installation detail can follow the section ‘how to install’ in this link:
+The installation detail can be found in the section ‘how to install’ in this link:
 
 https://github.com/deco3500-2019/Blueberry/wiki/HF-prototype-explaination
 
